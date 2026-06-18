@@ -338,7 +338,8 @@ The insights generated through this analysis can help the organization:
 ---
 
 ## Author
+**Sameer Chahande**
+GitHub: https://github.com/sameerchahande/D2C-Customer-Churn-EDA-Data-Audit
 
-Data Analytics & Business Intelligence Project
 
-Focused on transforming raw customer data into actionable insights through Data Auditing, Exploratory Data Analysis, and Churn Intelligence.
+Gmail:  Sameerchahande04@gmail.com
